@@ -38,9 +38,9 @@ Pizza! Pizza!
  
 
 * @ charlekwallin :pizza:
-** Anchovies
-** Sardines
-** Puffin
+ * Anchovies
+ * Sardines
+ * Puffin
 
 
  
